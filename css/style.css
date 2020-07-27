@@ -20,6 +20,7 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
+  right: 0 !important
 }
 
 #contents {
