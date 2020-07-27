@@ -175,3 +175,6 @@ h2 {
   font-size: 1.0em;
   font-weight: normal;
 }
+.leaflet-container{
+left: 0 !important;
+}
